@@ -1,9 +1,9 @@
 <h1>TP TSB Grupo 99</h1>
 
 <h3>Integrantes</h3>
-Alexis Jesús Carnero
-Franco Cosci
-Nicolás Folli
-Bautista Mendibe
-Candela María Pérez
+- Alexis Jesús Carnero <br>
+- Franco Cosci <br>
+- Nicolás Folli <br>
+- Bautista Mendibe <br>
+- Candela María Pérez
 
